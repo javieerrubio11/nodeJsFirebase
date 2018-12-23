@@ -1,0 +1,52 @@
+[
+  {
+    "title": "News 1",
+    "body": "This is body for News 1!",
+    "date": "Mon, 03 Oct 2016 12:00:00 +0000"
+  },
+  {
+    "title": "News 2",
+    "body": "This is body for News 2!",
+    "date": "Tue, 04 Oct 2016 08:00:00 +0000"
+  },
+  {
+    "title": "News 3",
+    "body": "This is body for News 3!",
+    "date": "Tue, 04 Oct 2016 12:00:00 +0000"
+  },
+  {
+    "title": "News 4",
+    "body": "This is body for News 4!",
+    "date": "Wed, 05 Oct 2016 06:00:00 +0000"
+  },
+  {
+    "title": "News 5",
+    "body": "This is body for News 5!",
+    "date": "Wed, 06 Oct 2016 07:00:00 +0000"
+  },
+  {
+    "title": "News 6",
+    "body": "This is body for News 6!",
+    "date": "Thu, 06 Oct 2016 07:00:00 +0000"
+  },
+  {
+    "title": "News 7",
+    "body": "This is body for News 7!",
+    "date": "Thu, 06 Oct 2016 12:00:00 +0000"
+  },
+  {
+    "title": "News 8",
+    "body": "This is body for News 9!",
+    "date": "Mon, 07 Oct 2016 01:00:00 +0000"
+  },
+  {
+    "title": "News 9",
+    "body": "This is body for News 9!",
+    "date": "Fri, 08 Oct 2016 03:00:00 +0000"
+  },
+  {
+    "title": "News 10",
+    "body": "This is body for News 10!",
+    "date": "Fri, 03 Oct 2016 05:00:00 +0000"
+  }
+]
